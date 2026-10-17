@@ -1,0 +1,6 @@
+{
+  "frame_timeout_seconds": 15,
+  "rpc_timeout_seconds": 8,
+  "ping_timeout_seconds": 5,
+  "probe_timeout_seconds": 3
+}
